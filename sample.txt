@@ -1,0 +1,43 @@
+Institution #1: university of toronto
+Institution #2: university of waterloo
+
+=== university of toronto ===
+id -> https://openalex.org/I185261750
+ror -> https://ror.org/03dbr7087
+display_name -> University of Toronto
+relevance_score -> 187891.28
+country_code -> CA
+type -> education
+homepage_url -> http://www.utoronto.ca/
+image_url -> https://upload.wikimedia.org/wikipedia/en/0/04/Utoronto_coa.svg
+image_thumbnail_url -> https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/100px-Utoronto_coa.svg.png
+display_name_acronyms -> []
+display_name_alternatives -> []
+works_count -> 283055
+cited_by_count -> 22902599
+ids -> {'openalex': 'https://openalex.org/I185261750', 'ror': 'https://ror.org/03dbr7087', 'mag': '185261750', 'grid': 'grid.17063.33', 'wikipedia': 'https://en.wikipedia.org/wiki/University%20of%20Toronto', 'wikidata': 'https://www.wikidata.org/wiki/Q180865'}
+geo -> {'city': 'Toronto', 'geonames_city_id': '6167865', 'region': 'Ontario', 'country_code': 'CA', 'country': 'Canada', 'latitude': 43.661667, 'longitude': -79.395}
+works_api_url -> https://api.openalex.org/works?filter=institutions.id:I185261750
+updated_date -> 2022-09-03T17:58:43.521245
+created_date -> 2016-06-24
+
+
+=== university of waterloo ===
+id -> https://openalex.org/I151746483
+ror -> https://ror.org/01aff2v68
+display_name -> University of Waterloo
+relevance_score -> 94403.195
+country_code -> CA
+type -> education
+homepage_url -> https://uwaterloo.ca/
+image_url -> https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Waterloo_seal.svg
+image_thumbnail_url -> https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/100px-University_of_Waterloo_seal.svg.png
+display_name_acronyms -> ['UW']
+display_name_alternatives -> ['UWaterloo']
+works_count -> 101984
+cited_by_count -> 4851556
+ids -> {'openalex': 'https://openalex.org/I151746483', 'ror': 'https://ror.org/01aff2v68', 'mag': '151746483', 'grid': 'grid.46078.3d', 'wikipedia': 'https://en.wikipedia.org/wiki/University%20of%20Waterloo', 'wikidata': 'https://www.wikidata.org/wiki/Q1049470'}
+geo -> {'city': 'Waterloo', 'geonames_city_id': '6176823', 'region': 'Ontario', 'country_code': 'CA', 'country': 'Canada', 'latitude': 43.472534, 'longitude': -80.544876}
+works_api_url -> https://api.openalex.org/works?filter=institutions.id:I151746483
+updated_date -> 2022-09-02T10:19:07.215058
+created_date -> 2016-06-24
