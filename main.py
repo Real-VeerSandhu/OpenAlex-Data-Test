@@ -29,5 +29,5 @@ def compare_institutions(name_1, name_2):
 first_name = input('Institution #1: ')
 second_name = input('Institution #2: ')
 
-# Run
+# Run func
 compare_institutions(first_name, second_name)
