@@ -1,5 +1,5 @@
-Institution #1: university of toronto
-Institution #2: university of waterloo
+Institution #1: university of toronto \\
+Institution #2: university of waterloo \\
 
 === university of toronto ===
 id -> https://openalex.org/I185261750
